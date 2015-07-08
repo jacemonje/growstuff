@@ -56,4 +56,7 @@ submit the change with your pull request.
 - Savant Krishna / [sksavant](https://github.com/sksavant)
 - Jake Yesbeck / [yez](https://github.com/yez)
 - Mauricio Gonzalez / [mauricio-gonzalez](https://github.com/mauricio-gonzalez)
-
+- Andrey Bazhutkin / [andrba](https://github.com/andrba)
+- Gabriel Sandoval / [gabrielsandoval](https://github.com/gabrielsandoval)
+- Cjay Billones / [CjayBillones](https://github.com/CjayBillones)
+- Katy Ereira / [maccath](https://github.com/maccath)
